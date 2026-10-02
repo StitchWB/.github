@@ -12,3 +12,4 @@
 - [ ] No edits to mirrored/submodule trees (`plugins-src/`, Zone-1 client tree in the hub)
 - [ ] Lint / compile / manifest checks green
 - [ ] Conventional commit title
+- [ ] PR labeled (feat / fix / plugin / docs) — release notes are categorized by labels

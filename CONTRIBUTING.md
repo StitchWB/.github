@@ -29,6 +29,8 @@ declarative UI schema. The contract lives in
 - One concern per PR; describe the *why*, not the diff.
 - Conventional commit titles (`feat:`, `fix:`, `docs:`, …) — release notes and
   changelogs are generated from them.
+- Label the PR (`feat`, `fix`, `plugin`, `docs`): GitHub release notes in
+  Stitch-Manager are categorized by these labels.
 - Keep CI green: lint + compile + manifest checks run on every PR.
 - No new dependencies without a reason stated in the PR.
 
