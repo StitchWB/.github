@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Plugin authoring guide
+    url: https://github.com/StitchWB/Stitch-Manager/blob/main/docs/service-plugins.md
+    about: Contract for service plugins (RPC, manifest v2, declarative UI)
+  - name: Community plugin catalog
+    url: https://github.com/StitchWB/stitch-plugin-catalog
+    about: Submit data-only community plugins here

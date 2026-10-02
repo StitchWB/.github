@@ -1,0 +1,6 @@
+{
+  "name": "Tag release",
+  "description": "Creates a GitHub release with auto-generated notes on every v* tag.",
+  "iconName": "octicon tag",
+  "categories": ["Automation"]
+}

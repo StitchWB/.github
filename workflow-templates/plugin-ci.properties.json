@@ -1,0 +1,6 @@
+{
+  "name": "Stitch service plugin CI",
+  "description": "Lint, compile and manifest checks for a stitch.plugin/v2 service plugin repo.",
+  "iconName": "octicon package",
+  "categories": ["Python"]
+}
